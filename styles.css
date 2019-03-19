@@ -1,0 +1,19 @@
+body {
+    background-color:#E9FE92;
+  font-family: 'Archivo Narrow', sans-serif;
+  text-align:center;
+}
+
+input {
+    height:20px;
+    border-style:double;
+    border-width:5px;
+}
+
+button {
+    font-family: 'Archivo Narrow', sans-serif;
+   border-style:solid;
+    border-width:10px;
+    
+  
+}
